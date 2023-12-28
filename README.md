@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janani Manikandan</h1>
 <h3 align="center">A passionate Android Developer and Cybersecurity Enthusiast</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janani-m17" alt="janani-m17" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/janani-manikandan-7a01b624a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janani-manikandan" height="30" width="40" /></a>
