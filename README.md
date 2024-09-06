@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janani Manikandan</h1>
-<h3 align="center">A passionate Engineer and Cybersecurity Enthusiast</h3>
+<h3 align="center">Passionate Engineer | Software Developer | MERN Stack</h3>
 💫 About Me:
 🔭 I’m currently working on improving my Programming skills.<br>🌱 I’m currently learning about Cyber Security.<br>💬 Ask me about Cybersecurity, Programming.<br>⚡ Enthusiastic Learner.
 
