@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janani Manikandan</h1>
 <h3 align="center">Passionate Engineer | Software Developer | MERN Stack</h3>
 💫 About Me:
-🔭 I’m currently working on improving my Programming skills.<br>🌱 I’m currently learning about Cyber Security.<br>💬 Ask me about Cybersecurity, Programming.<br>⚡ Enthusiastic Learner.
+🔭 I’m currently working on improving my Programming skills.<br>🌱 I’m currently learning about Software Development and Programming.<br>💬 Ask me about Software Development, Programming.<br>⚡ Enthusiastic Learner.
 
 
 ## 🌐 Socials:
