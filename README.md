@@ -4,7 +4,7 @@
 🔭 I’m currently working on improving my Programming skills.<br>🌱 I’m currently learning about Software Development and Programming.<br>💬 Ask me about Software Development, Programming.<br>⚡ Enthusiastic Learner.
 
 
-## 🌐 Socials:
+## 🌐Socials:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/janani-manikandan-7a01b624a/" target="_blank">
@@ -16,14 +16,14 @@
 </div>
 
 
-## GSSOC(24) Badges 🪶
+## 🪶GSSOC(24) Badges 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://github.com/user-attachments/assets/3eda5a9d-766f-4921-940d-4726ffad30f6" width="100px" height="100px" />
   <img src="https://github.com/user-attachments/assets/6613e31b-9247-425a-bc4d-1f67658428ba" width="100px" height="100px" />
   <img src="https://github.com/user-attachments/assets/1f873796-fc37-4776-aeb9-ac0a5f06444b" width="100px" height="100px" />
 </div>
 
-# 💻 Tech Stack:
+## 🛠Language and tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -79,7 +79,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
 </div>
 
-# 📊 GitHub Stats:
+## 📊GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janani-m17&show_icons=true&locale=en&layout=compact" alt="janani-m17" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janani-m17&show_icons=true&locale=en" alt="janani-m17" /></p>
