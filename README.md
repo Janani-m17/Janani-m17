@@ -9,15 +9,9 @@
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="![image](https://github.com/user-attachments/assets/3eda5a9d-766f-4921-940d-4726ffad30f6)" width="100px" height="100px" />
-  <img src="![image](https://github.com/user-attachments/assets/6613e31b-9247-425a-bc4d-1f67658428ba)" width="100px" height="100px" />
-  <img src="![image](https://github.com/user-attachments/assets/1f873796-fc37-4776-aeb9-ac0a5f06444b)" width="100px" height="100px" />
-<!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" /> -->
-<!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a> -->
+<img src="https://github.com/user-attachments/assets/3eda5a9d-766f-4921-940d-4726ffad30f6" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/6613e31b-9247-425a-bc4d-1f67658428ba" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/1f873796-fc37-4776-aeb9-ac0a5f06444b" width="100px" height="100px" />
 </div>
 
 # 💻 Tech Stack:
